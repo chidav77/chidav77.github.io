@@ -1,13 +1,5 @@
 {
-	"getToken": {
-		"url": "https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?key=AIzaSyCdFe0FIOtybxfh3G4MxmPUbsv3Miw4vFo",
-		"headers": [
-			{
-				"key": "X-Ios-Bundle-Identifier",
-				"value": "it.lottomatica.lotto"
-			}
-		]
-	},
+	
 	"validation": {
 		"url": "https://verificavincite.mylotteries.it/gev/v1/verificavincita?ts=1639929108830&ai=LOL_3fb74c7d-935b-4f86-be8a-4a159b972f3a&ti=",
 		"headers": [
