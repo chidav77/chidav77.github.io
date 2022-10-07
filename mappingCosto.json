@@ -91,6 +91,11 @@
 		"nome": "FAI 13",
 		"costo": 500
 	},
+        {
+		"nome": "SUPER NUMERISSIMI",
+		"costo": 1000
+	},
+
 	{
 		"nome": "TURBO CASH",
 		"costo": 1000
