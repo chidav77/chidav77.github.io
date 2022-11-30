@@ -12,36 +12,41 @@
 				"value": "application/json, text/plain, */*"
 			},
 			{
-				"key": "Content-Type",
-				"value": "application/json"
+				"key": "rel",
+				"value": "gong"
 			},
 			{
 				"key": "hdrprm",
 				"value": "hdlrprn"
 			},
 			{
+				"key": "lolreferer",
+				"value": "https://vetrina.giocodellotto.it?idRivenditore=LI0009"
+			},
+			{
+				"key": "os",
+				"value": "APP_IOS"
+			},
+			{
 				"key": "Accept-Language",
 				"value": "it-it"
 			},
 			{
-				"key": "LOLReferer",
-				"value": "https://vetrina.giocodellotto.it?idRivenditore=LI0009"
+				"key": "Accept-Encoding",
+				"value": "gzip, deflate, br"
 			},
 			{
 				"key": "User-Agent",
-				"value": "Mozilla/5.0 (Linux; Android 10; Android SDK built for arm64 Build/QSR1.210802.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36"
+				"value": "Lotto/2.8 CFNetwork/1120 Darwin/19.0.0"
 			},
 			{
-				"key": "OS",
-				"value": "APP_ANDROID"
+				"key": "Content-Type",
+				"value": "application/json"
 			},
-			{
-				"key": "X-Requested-With",
-				"value": "it.lottomatica.lotto"
-			},
+			
 			{
 				"key": "Cookie",
-				"value": "TS01fe2223=012139729142557c0822f16bdcaeb9e018811c4d826952ff9c6e8a9f61c2f90689a8848b86622c39d3fb8cf7340466c3945cd5bc27; TS2d0f43dd027=08800ac392ab2000e3b5bd9923e72176fe6d2dcd11223221d9e2f4528678f3dd5f632cb43ce7ba760831bf97ca113000fee28e67c18796aa7160c6a075b558334637cd51eeb822c06af855e0eafbceabcc392c428917b77ecfa1ae1c45dfa025; TS0174d281=01213972918fc1e10a05c14b94b52de7aaa18dd777d1f258cbbf98d4f605dbea4f1add85a91f708d7ea32c2b4796bf9c08bfbbf459"
+				"value": "TS0174d281=012139729152ff883bcf12a1fffe1b0eaec619899fedfd0652eb50fb3c5fd8844f20a068b4b08cf83b62b081601b41120d11461b75"
 			}
 		]
 	}
