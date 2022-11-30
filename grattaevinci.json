@@ -1,7 +1,7 @@
 {
 	
 	"validation": {
-		"url": "https://verificavincite.mylotteries.it/gev/v1/verificavincita?ts=1639929108830&ai=LOL_3fb74c7d-935b-4f86-be8a-4a159b972f3a&ti=",
+		"url": "https://verificavincite.mylotteries.it/gev/v1/verificavincita?ts=1639929108830&ai=LOL_d11d7126-f1b6-4d8a-b151-d34985f51bc9&ti=",
 		"headers": [
 			{
 				"key": "Host",
