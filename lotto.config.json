@@ -1,0 +1,40 @@
+{
+    "menu": [
+        {
+            "title": "Scan QR Code",
+            "url": "/scan-qr-code",
+            "icon": "scan",
+            "visible": true
+        },
+        {
+            "title": "Statistiche",
+            "url": "/statistiche",
+            "icon": "bar-chart",
+            "visible": true
+        },
+        {
+            "title": "Storico",
+            "url": "/allDb",
+            "icon": "archive-outline",
+            "visible": true
+        },
+        {
+            "title": "News",
+            "url": "/news",
+            "icon": "archive-outline",
+            "visible": false
+        },
+        {
+            "title": "Opzioni",
+            "url": "/opzioni",
+            "icon": "settings",
+            "visible": true
+        },
+        {
+            "title": "Leggimi",
+            "url": "/leggimi",
+            "icon": "book-outline",
+            "visible": true
+        }
+    ]
+}
