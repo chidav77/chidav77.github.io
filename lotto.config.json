@@ -2,6 +2,7 @@
     "menu": [
 
         { "title": "Ultima Estrazione", "url": "/ultima-estrazione", "icon": "alert-circle", "visible":true },
+        { "title": "Estrazione Live", "url": "/live", "icon": "tv-outline", "visible":true },
         { "title": "Numeri Suggeriti", "url": "/metodi", "icon": "cash-outline", "visible":true },
         { "title": "Superenalotto", "url": "/superenalotto", "icon": "flower-outline", "visible":true },
         { "title": "10 e lotto live!", "url": "/diecielotto", "icon": "star-outline", "visible":true },
@@ -18,7 +19,7 @@
         { "title": "Numeri Casuali", "url": "/numeri-casuali", "icon": "shuffle-outline", "visible":true },
     
         { "title": "Statistiche Ambi", "url": "/statistiche-ambi", "icon": "copy-outline", "visible":true },
-        { "title": "Leggimi", "url": "/leggimi", "icon": "book-outline", "visible":false },
+        { "title": "Leggimi", "url": "/leggimi", "icon": "book-outline", "visible":true },
         { "title": "Opzioni", "url": "/opzioni", "icon": "settings-sharp", "visible":true }
     
     
