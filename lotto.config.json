@@ -1,40 +1,26 @@
 {
     "menu": [
-        {
-            "title": "Scan QR Code",
-            "url": "/scan-qr-code",
-            "icon": "scan",
-            "visible": true
-        },
-        {
-            "title": "Statistiche",
-            "url": "/statistiche",
-            "icon": "bar-chart",
-            "visible": true
-        },
-        {
-            "title": "Storico",
-            "url": "/allDb",
-            "icon": "archive-outline",
-            "visible": true
-        },
-        {
-            "title": "News",
-            "url": "/news",
-            "icon": "archive-outline",
-            "visible": false
-        },
-        {
-            "title": "Opzioni",
-            "url": "/opzioni",
-            "icon": "settings",
-            "visible": true
-        },
-        {
-            "title": "Leggimi",
-            "url": "/leggimi",
-            "icon": "book-outline",
-            "visible": true
-        }
-    ]
+
+        { "title": "Ultima Estrazione", "url": "/ultima-estrazione", "icon": "alert-circle", "visible":true },
+        { "title": "Numeri Suggeriti", "url": "/metodi", "icon": "cash-outline", "visible":true },
+        { "title": "Superenalotto", "url": "/superenalotto", "icon": "flower-outline", "visible":true },
+        { "title": "10 e lotto live!", "url": "/diecielotto", "icon": "star-outline", "visible":true },
+        { "title": "Verifica giocata", "url": "/verifica", "icon": "qr-code-outline", "visible":true },
+        { "title": "Ultimo Mese", "url": "/ultimo-mese", "icon": "calendar-outline", "visible":true },
+        { "title": "Archivio Storico", "url": "/archivio", "icon": "archive-outline", "visible":true },
+        { "title": "Ricerca", "url": "/ricerca-numeri", "icon": "search-outline", "visible":true },
+        { "title": "Top Ritardatari", "url": "/top-ritardatari", "icon": "timer-outline", "visible":true },
+        { "title": "Ritardatari per Ruota", "url": "/ritardatari-ruota", "icon": "bar-chart-outline", "visible":true },
+        { "title": "Frequenti per Ruota", "url": "/frequenti-ruota", "icon": "analytics-outline", "visible":true },
+        { "title": "Numeri spia", "url": "/numeri-spia", "icon": "contract-outline", "visible":true },
+        { "title": "Smorfia", "url": "/smorfia", "icon": "chatbubble-ellipses-outline", "visible":true },
+    
+        { "title": "Numeri Casuali", "url": "/numeri-casuali", "icon": "shuffle-outline", "visible":true },
+    
+        { "title": "Statistiche Ambi", "url": "/statistiche-ambi", "icon": "copy-outline", "visible":true },
+        { "title": "Leggimi", "url": "/leggimi", "icon": "book-outline", "visible":true },
+        { "title": "Opzioni", "url": "/opzioni", "icon": "settings-sharp", "visible":true }
+    
+    
+      ]
 }
