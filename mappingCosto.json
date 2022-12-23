@@ -7,10 +7,7 @@
 		"nome": "MONETINE FORTUNATE",
 		"costo": 100
 	},
-	{
-		"nome": "MINI DOPPIA SFIDA",
-		"costo": 200
-	},
+	
 	{
 		"nome": "FRUTTI RICCHI",
 		"costo": 200
@@ -36,7 +33,15 @@
 		"costo": 200
 	},
 	{
+		"nome": "MINI DOPPIA SFIDA",
+		"costo": 200
+	},
+	{
 		"nome": "LE RICCHEZZE DI ELDORADO",
+		"costo": 300
+	},
+        {
+		"nome": "UN MAGICO NATALE",
 		"costo": 300
 	},
 	{
@@ -90,6 +95,11 @@
 	{
 		"nome": "FAI 13",
 		"costo": 500
+	},
+
+        {
+		"nome": "RICCO NATALE",
+		"costo": 1000
 	},
         {
 		"nome": "SUPER NUMERISSIMI",
