@@ -18,7 +18,7 @@
         { "title": "Numeri Casuali", "url": "/numeri-casuali", "icon": "shuffle-outline", "visible":true },
     
         { "title": "Statistiche Ambi", "url": "/statistiche-ambi", "icon": "copy-outline", "visible":true },
-        { "title": "Leggimi", "url": "/leggimi", "icon": "book-outline", "visible":true },
+        { "title": "Leggimi", "url": "/leggimi", "icon": "book-outline", "visible":false },
         { "title": "Opzioni", "url": "/opzioni", "icon": "settings-sharp", "visible":true }
     
     
