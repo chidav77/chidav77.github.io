@@ -130,6 +130,10 @@
 		"nome": "IL RE VINCENTE",
 		"costo": 1000
 	},
+        {
+		"nome": "ORO 24 CARATI",
+		"costo": 1000
+	},
 	{
 		"nome": "NUOVO 100X",
 		"costo": 2000
