@@ -53,13 +53,13 @@
 	"searchTerms":[
 		{
 			"id":1,
-			"key":"Vincite",
-			"value": "vincite"
+			"key":"vincite",
+			"value": "Vincite"
 		},
 		{
 			"id":2,
-			"key":"News",
-			"value": "notizie"
+			"key":"notizie",
+			"value": "News"
 		}
 	]
 }
