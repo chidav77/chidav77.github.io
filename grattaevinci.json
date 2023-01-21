@@ -52,10 +52,12 @@
 	},
 	"searchTerms":[
 		{
+			"id":1,
 			"key":"Vincite",
 			"value": "vincite"
 		},
 		{
+			"id":2,
 			"key":"News",
 			"value": "notizie"
 		}
