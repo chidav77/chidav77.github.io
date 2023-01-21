@@ -60,6 +60,16 @@
 			"id":2,
 			"key":"notizie",
 			"value": "News"
+		},
+		{
+			"id":3,
+			"key":"trucchi",
+			"value": "Trucchi"
+		},
+		{
+			"id":4,
+			"key":"segreti",
+			"value": "Segreti"
 		}
 	]
 }
