@@ -49,5 +49,15 @@
 				"value": "TS0174d281=012139729152ff883bcf12a1fffe1b0eaec619899fedfd0652eb50fb3c5fd8844f20a068b4b08cf83b62b081601b41120d11461b75"
 			}
 		]
-	}
+	},
+	"searchTerms":[
+		{
+			"key":"Vincite",
+			"value": "vincite"
+		},
+		{
+			"key":"News",
+			"value": "notizie"
+		}
+	]
 }
